@@ -1,0 +1,13 @@
+title: "Instagram Video Downloader"
+description: "A simple tool to download Instagram videos"
+baseurl: ""
+url: "https://yourwebsite.com"  # Gantilah dengan URL situs Anda jika ada
+
+# Menambahkan pengaturan SCSS (jika Anda menggunakannya)
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-sass-converter
